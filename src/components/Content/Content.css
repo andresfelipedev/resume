@@ -1,0 +1,44 @@
+.content {
+    padding: 40px 25px;      
+}
+
+.card {
+    background-color: #f5fdff;
+    margin: 15px 5px;
+}
+
+.card-header {
+    font-size: 19px;
+    text-transform: uppercase;
+}
+
+.card-body p {
+    margin: 0;    
+}
+
+.card-body span {
+    font-size: 16px;       
+    font-weight: bold;     
+}
+
+.project-credentials span {
+    font-weight: normal;    
+}
+
+.project-credentials ul {
+    margin: 5px 0 20px;
+}
+
+.project .title {
+    font-size: 19px;        
+}
+
+.project p {
+    margin-top: 5px;
+}
+
+.project .link {
+    color: #3897ff;    
+    font-size: 16px;
+    margin: 0 10px;
+}
